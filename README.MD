@@ -7,3 +7,12 @@
 ## Clase Secundaria
 
 ![Clase principal](screenshot/img2.png)
+
+## Comandos para ejecutar el programa
+
+```bash
+$ javac Main.java
+```
+```bash
+$ java Main
+```
