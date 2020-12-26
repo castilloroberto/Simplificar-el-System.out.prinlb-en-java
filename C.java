@@ -1,4 +1,4 @@
-public class Console {
+public class C {
     
     static void log(String x){
         System.out.println(x);
